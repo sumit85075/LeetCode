@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit85075/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/sumit85075/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/sumit85075/LeetCode/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/sumit85075/LeetCode/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
