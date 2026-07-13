@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/sumit85075/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/sumit85075/LeetCode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/sumit85075/LeetCode/tree/master/0896-monotonic-array) |
+| [1207-unique-number-of-occurrences](https://github.com/sumit85075/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sumit85075/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit85075/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit85075/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/sumit85075/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
