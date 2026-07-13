@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/sumit85075/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/sumit85075/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sumit85075/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/sumit85075/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sumit85075/LeetCode/tree/master/0561-array-partition) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sumit85075/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
