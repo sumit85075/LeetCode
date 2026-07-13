@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/sumit85075/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit85075/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit85075/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/sumit85075/LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sumit85075/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit85075/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumit85075/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/sumit85075/LeetCode/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sumit85075/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sumit85075/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sumit85075/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
